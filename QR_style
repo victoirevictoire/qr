@@ -1,0 +1,40 @@
+.tout 
+{
+  width:1500px;
+  background-color : #8BC095 ;
+  text-align : center ;
+  align-content :center;
+  white-space: nowrap;
+}
+
+.texte1
+{
+  width : 940px;
+  margin : 0 auto;
+  background-color : palevioletred ;
+  text-align : center ;
+  align-content :center;
+  font-family: 'Gasoek One', sans-serif;
+  font-size:xx-large
+}
+
+.texte2
+{
+  width : 940px;
+  margin : 0 auto;
+  background-color : palevioletred ;
+  text-align : center ;
+  align-content :center;
+  font-family: 'Caladea', serif;
+  font-size:medium
+}
+
+.fin
+{
+  width:1500px;
+  background-color : #8BC095 ;
+  text-align : center ;
+  align-content :center;
+  white-space: nowrap;
+}
+}
