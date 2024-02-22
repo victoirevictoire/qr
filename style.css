@@ -35,7 +35,11 @@
   color: #000000;
   background-color : palevioletred ;
   text-decoration: none;
-  font-family: 'Gasoek One', sans-serif;
+  font-family: "Gasoek One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
   border: none;
   font-size:x-small
   border-radius: 4px;
