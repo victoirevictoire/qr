@@ -31,12 +31,13 @@
 
 .bouton-deezer {
   display: inline-block;
-  padding: 10px 100px;
+  padding: 20px 90px;
   color: #000000;
   background-color : palevioletred ;
   text-decoration: none;
   font-family: 'Gasoek One', sans-serif;
   border: none;
+  font-size:x-small
   border-radius: 4px;
 }
 
